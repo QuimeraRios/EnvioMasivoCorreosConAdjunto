@@ -37,3 +37,6 @@ from email.mime.application import MIMEApplication
 #Archivo en excel con los campos:
 nCuenta_cobro,	nombre_del_artista,	correo, Asunto_del_correo ,	 Cuerpo_del_correo,
  Carpeta_donde_estan_los_archivos ,	 RutaArchivoAdjuntar
+
+ # Video Explicativo
+ https://www.youtube.com/watch?v=u7IFh7IpJ5c 
